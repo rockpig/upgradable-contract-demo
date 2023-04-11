@@ -1,0 +1,7 @@
+{
+	"bsctestnet": {
+		"ProxyAdmin": "0x36580136aBceeE5CD03C9FAE1D313547771b2F1E",
+		"MyContract": "0xCfC2C96891c4145B8bc0AeA7Cfa268c835aa4867",
+		"StorageStructure": "0xE669f9e55D2bE483B90b2B51735d15FdCfcF5Be4"
+	}
+}
